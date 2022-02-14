@@ -1,0 +1,19 @@
+GET
+curl http://localhost:3000/
+curl http://localhost:3000/shops
+curl http://localhost:3000/menus
+curl http://localhost:3000/prices
+
+POST
+curl -X POST -H "Content-Type: application/json" -d '
+{"name":"Bob", "email":"bob@prisma.io"}' 
+http://localhost:3000/shop
+
+PUT 
+https://github.com/prisma/prisma-examples/blob/latest/javascript/rest-express/src/index.js 
+
+curl -X PUT http://localhost:3000/menu/publish/5
+
+DELETE
+
+curl -X DELETE http://localhost:3000/shop/5

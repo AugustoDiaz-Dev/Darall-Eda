@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "title": "Beer",
+        "text": "The best in the world!",
+        "btn_text": "450 ₽₽₽",
+        "img_src": "https://firebasestorage.googleapis.com/v0/b/darall.appspot.com/o/drinks%2Fbeer.jpg?alt=media&token=74727cf6-31ec-46e2-9089-c02f2540abd1"
+    },
+    {
+        "id": "2",
+        "title": "Juice",
+        "text": "The best in the world!",
+        "btn_text": "350 ₽₽₽",
+        "img_src": "https://firebasestorage.googleapis.com/v0/b/darall.appspot.com/o/drinks%2Fstrawberry_juice.jpg?alt=media&token=5a294576-e80b-4d9d-9f74-b80afc9e458d"
+    },
+    {
+        "id": "3",
+        "title": "Red Wine",
+        "text": "The best in the world!",
+        "btn_text": "250 ₽₽₽",
+        "img_src": "https://firebasestorage.googleapis.com/v0/b/darall.appspot.com/o/drinks%2Fwine.jpg?alt=media&token=964c6325-7618-41f9-b768-11346b3e8062"
+    },
+    {
+        "id": "4",
+        "title": "Campari",
+        "text": "The best in the world!",
+        "btn_text": "150 ₽₽₽",
+        "img_src": "https://firebasestorage.googleapis.com/v0/b/darall.appspot.com/o/drinks%2Fmojito.jpg?alt=media&token=340d7086-f6f6-4ee3-9955-722f4257d0ce"
+    }
+]

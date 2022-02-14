@@ -1,0 +1,62 @@
+[
+    {
+        "position": "1",
+        "name": "Cheese Burguer",
+        "up": "300",
+        "down": "11"
+    },
+    {
+        "position": "2",
+        "name": "Vietnamese Salad",
+        "up": "246",
+        "down": "7"
+    },
+    {
+        "position": "3",
+        "name": "Shashlik",
+        "up": "234",
+        "down": "2"
+    },
+    {
+        "position": "4",
+        "name": "Pizza",
+        "up": "223",
+        "down": "7"
+    },
+    {
+        "position": "5",
+        "name": "Ravioli",
+        "up": "211",
+        "down": "5"
+    },
+    {
+        "position": "6",
+        "name": "Borsch",
+        "up": "205",
+        "down": "1"
+    },
+    {
+        "position": "7",
+        "name": "Pilimieni",
+        "up": "198",
+        "down": "5"
+    },
+    {
+        "position": "8",
+        "name": "Sushi",
+        "up": "156",
+        "down": "7"
+    },
+    {
+        "position": "9",
+        "name": "Chaofan",
+        "up": "120",
+        "down": "15"
+    },
+    {
+        "position": "10",
+        "name": "Katlieti",
+        "up": "70",
+        "down": "7"
+    }
+]

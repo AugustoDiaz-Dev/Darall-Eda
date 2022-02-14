@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "subtitle": "Рекомендуемые",
+        "title": "Cheese Burguers",
+        "endorser_name": "Philipp Kirkorov",
+        "date": "Feb 16",
+        "text_content": "куда бы я ни отправился, я всегда заказываю бургеры из бургер мастера, они невероятно вкусные и дешевые.",
+        "btn_text": "предложение для вас!",
+        "img_src": "https://firebasestorage.googleapis.com/v0/b/darall.appspot.com/o/endorsers%2Fendorser_kirokov_edit.png?alt=media&token=8616342e-cc36-4c55-accc-7036676ed16e"
+    },
+    {
+        "id": "2",
+        "subtitle": "Рекомендуемые",
+        "title": "Vietnamese Salad",
+        "endorser_name": "Oxana Samoylova",
+        "date": "Feb 17",
+        "text_content": "Когда мой муж нр хочет готовить мне вкусный ужин, я заказываю вкусные салаты из \"Salad's Master\". Мой любимый вьетнамский. Попробуй!",
+        "btn_text": "Не пропустите!",
+        "img_src": "https://firebasestorage.googleapis.com/v0/b/darall.appspot.com/o/endorsers%2Fendorser_samoylova.jpg?alt=media&token=8ab4739f-fffa-442e-95d3-ba53aed9d226"
+    }
+]

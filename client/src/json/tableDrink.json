@@ -1,0 +1,62 @@
+[
+    {
+        "position": "1",
+        "name": "Baltika",
+        "up": "300",
+        "down": "11"
+    },
+    {
+        "position": "2",
+        "name": "Rutini",
+        "up": "246",
+        "down": "7"
+    },
+    {
+        "position": "3",
+        "name": "Coca Cola",
+        "up": "234",
+        "down": "2"
+    },
+    {
+        "position": "4",
+        "name": "Sprite",
+        "up": "223",
+        "down": "7"
+    },
+    {
+        "position": "5",
+        "name": "Orange Juice",
+        "up": "211",
+        "down": "5"
+    },
+    {
+        "position": "6",
+        "name": "Bai Jiu",
+        "up": "205",
+        "down": "1"
+    },
+    {
+        "position": "7",
+        "name": "Vodka",
+        "up": "198",
+        "down": "5"
+    },
+    {
+        "position": "8",
+        "name": "Sake",
+        "up": "156",
+        "down": "7"
+    },
+    {
+        "position": "9",
+        "name": "Green Tea",
+        "up": "120",
+        "down": "15"
+    },
+    {
+        "position": "10",
+        "name": "Mojito",
+        "up": "70",
+        "down": "7"
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "title": "Darall еда",
+    "slogan": "все вкусы, о которых вы мечтали.",
+    "about": "Ваши желания являются приоритетными для нас.Мы каждый день работаем над улучшением нашего сервиса, чтобы сделать его еще более комфортным.",
+    "website": "https://darall.ru/",
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/darall.appspot.com/o/darall%2Fdarall_rocket.png?alt=media&token=8592a7b7-fd30-4402-b436-b7bd8cd032e4",
+    "logoDarall": "https://firebasestorage.googleapis.com/v0/b/darall.appspot.com/o/darall%2Flogo_darall.png?alt=media&token=5a14a5da-f96d-433a-b704-45137c889a3b",
+    "logoWhite": "https://firebasestorage.googleapis.com/v0/b/darall.appspot.com/o/darall%2Flogo_darall_white.png?alt=media&token=18397642-7b2b-4a25-b36a-4228a8a2162a",
+    "logoBlack": "https://firebasestorage.googleapis.com/v0/b/darall.appspot.com/o/darall%2Flogo_darall_black.png?alt=media&token=5a267bf8-b9e9-452b-8b2e-f47f7da6cc8a",
+    "btnText1": "Главная",
+    "btnText2": "еда",
+    "btnText3": "напитки",
+    "btnText4": "другое",
+    "btnText5": "вход",
+    "footerLink": "<p>&copy;<a href='https://darall.ru/' class='text-white darall-link'>Darall</a>&nbsp;еда</p>",
+    "carouselSlide1": "https://firebasestorage.googleapis.com/v0/b/darall.appspot.com/o/foods%2Frussian%2Frusskaya_natsionalnaya_kukhnya_1.jpg?alt=media&token=9374dcf2-e932-4514-8acf-34ec3cf1f8e1",
+    "carouselSlide2": "https://firebasestorage.googleapis.com/v0/b/darall.appspot.com/o/foods%2Frussian%2Frusskaya_natsionalnaya_kukhnya_krasivo_22.jpg?alt=media&token=3596f603-0baa-40d5-a6ec-7318a226b03e",
+    "carouselSlide3": "https://firebasestorage.googleapis.com/v0/b/darall.appspot.com/o/foods%2Frussian%2Frusskaya_natsionalnaya_kukhnya_krasivo_32.jpg?alt=media&token=8f53b1b8-56a6-49a3-995f-02e7ce122293",
+    "sectionTitle1": "Контакты",
+    "sectionTitle2": "Популярные магазины",
+    "sectionTitle3": "Еда",
+    "sectionTitle4": "Напитки"
+}
