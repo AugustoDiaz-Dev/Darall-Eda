@@ -8,7 +8,7 @@
 
 <script>
 import axios from "axios";
-const baseURL = "http://localhost:3000";
+const baseURL = "";
 
 import darallData from "../json/darallData.json";
 import D1Header from "../components/main/D1Header.vue";

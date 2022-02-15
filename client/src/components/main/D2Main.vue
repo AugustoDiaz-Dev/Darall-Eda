@@ -52,7 +52,7 @@
 
 <script>
 import axios from "axios";
-const baseURL = "http://localhost:3000";
+const baseURL = "/";
 
 import D5Endorsements from "./D5Endorsements.vue";
 import D6Cards from "./D6Cards.vue";

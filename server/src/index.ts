@@ -1,5 +1,10 @@
 import express from 'express'
+import cors from 'cors'
 const app = express()
+// Middleware
+app.use(cors());
+
+const port = process.env.PORT || 3000;
 
 const shopController = require('./controllers/shopController')
 const menuController = require('./controllers/menuController')
@@ -30,6 +35,15 @@ app.delete('/price', priceController.delete)
 // GET ALL
 app.get('/', allController.get)
 
-app.listen(3000, () =>
-    console.log('REST API server ready at: http://localhost:3000'),
+// Handle production 
+if(process.env.NODE_ENV === 'production') {
+    // Static folder
+    app.use(express.static(__dirname + '/public'));
+
+    // Handle App
+    app.get(/.*/, (req, res) => res.sendFile(__dirname + '/public/index.html'));
+}
+
+app.listen(PORT, () =>
+    console.log(`REST API server ready at: ${PORT}),
 )

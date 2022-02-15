@@ -28,7 +28,7 @@
 
 <script>
 import axios from "axios";
-const baseURL = "http://localhost:3000";
+const baseURL = "";
 
 import darallData from "../json/darallData.json";
 import menuBtnList from "../json/menuBtnList.json";

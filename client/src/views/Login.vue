@@ -16,7 +16,7 @@
 <script>
 import darallData from "../json/darallData.json";
 import axios from "axios";
-const baseURL = "http://localhost:3000";
+const baseURL = "/";
 
 import D1Header from "../components/main/D1Header.vue";
 import D3Footer from "../components/main/D3Footer.vue";
