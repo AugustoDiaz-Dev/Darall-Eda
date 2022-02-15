@@ -1,10 +1,10 @@
-import express from 'express'
-import cors from 'cors'
+const express = require('express')
+const cors = require('cors')
 const app = express()
 // Middleware
 app.use(cors());
 
-const port = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000;
 
 const shopController = require('./controllers/shopController')
 const menuController = require('./controllers/menuController')
@@ -36,14 +36,13 @@ app.delete('/price', priceController.delete)
 app.get('/', allController.get)
 
 // Handle production 
-if(process.env.NODE_ENV === 'production') {
+if (process.env.NODE_ENV === 'production') {
     // Static folder
     app.use(express.static(__dirname + '/public'));
 
     // Handle App
-    app.get(/.*/, (req, res) => res.sendFile(__dirname + '/public/index.html'));
+    app.get(/.*/, (req: any, res: any) => res.sendFile(__dirname + '/public/index.html'));
 }
 
 app.listen(PORT, () =>
-    console.log(`REST API server ready at: ${PORT}),
-)
+    console.log(`REST API server ready at: ${PORT}`));
